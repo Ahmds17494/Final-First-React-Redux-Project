@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "Category": "Sport",
+      "Title": "Football",
+      "Author": "Ali",
+      "Price": "100$",
+      "Image": "https://img.rasset.ie/00157926-614.jpg?ratio=0.65",
+      "id": 3
+    },
+    {
+      "Category": "Cooks",
+      "Title": "Hamburger",
+      "Author": "Imad",
+      "Price": "20$",
+      "Image": "https://www.buylebanese.com/database/photos/811s.jpg   ",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "Category": "Romance",
+      "id": 1
+    },
+    {
+      "Category": "Cooks",
+      "id": 3
+    }
+  ],
+  "Post": [],
+  "Display": [],
+  "Favorite": [
+    {
+      "Email": "ameer@gmail.com",
+      "Category": "Romance",
+      "Author": "Mira",
+      "Price": "22$",
+      "Image": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/22/asset/dda98713c653/sub-buzz-1264-1589927479-10.jpg",
+      "id": 1
+    },
+    {
+      "Email": "ameer@gmail.com",
+      "Category": "Sport",
+      "Author": "Ameer",
+      "Price": "10$",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5uwT84lyyTkHT67VI5sOOCwU44d5j1dOSg&usqp=CAU",
+      "id": 2
+    }
+  ]
+}

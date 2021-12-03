@@ -1,0 +1,61 @@
+{
+  "myBooks":[
+      {
+          "Title":"Where",
+          "Author": "Julia Alvarenz and Sabra",
+          "Price": "18.95$",
+          "OldPrice":"17.3$ ",
+          "Image": [
+          "https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images_full/code-name-god_FrontImage_809.jpg"
+          ]
+      },
+      {
+          "Title":"But there are no Palm Trees here",
+          "Author": "Kiani Antiga and vanessa",
+          "Price": "14.99$",
+          "OldPrice":"",
+          "Image": [
+          "https://i.weltbild.de/p/tor-books-the-unspoken-name-sneak-peek-289026611.jpg?wp=_max"
+          ]
+      },
+      {
+          "Title":"I Found a Poem under my pillow",
+          "Author": "Tanya Montas Paris and Naya",
+          "Price": "13.80$",
+          "OldPrice":"",
+          "Image": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311999970l/172763.jpg"
+          ]
+      },
+      {
+          "Title":"Just a memory away",
+          "Author": "Tanya  Montas Paris",
+          "Price": "20.99$",
+          "OldPrice":"20.13$",
+          "Image": [
+          "https://m.media-amazon.com/images/I/51LYGkP0KQL.jpg"
+          ]
+      },
+      {
+          "Title":"The cot in the Living room ",
+          "Author": "Hilda Edunis Burgos",
+          "Price": "16.55$",
+          "OldPrice":"",
+          "Image": [
+          "https://images.unsplash.com/photo-1617895153857-82fe79adfcd4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2liZXJpYW4lMjBodXNreXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+          ]
+      },
+      {
+          "Title":"I#m a Wild Seed",
+          "Author": "sharon lee de la cruz",
+          "Price": "11.95$",
+          "OldPrice":"70,3$",
+          "Image": [
+          "https://images-na.ssl-images-amazon.com/images/I/51YIFpMbfqL.jpg"
+          ]
+      }
+
+  ]
+}
+
+
